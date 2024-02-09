@@ -25,7 +25,6 @@ At 42Works, we specialize in crafting high-quality software across various domai
 ## Join the 42Works Family
 
 We are always on the lookout for talented individuals who share our passion for technology and open-source. If you're interested in collaborating with us, visit our profile or contact us directly.
-
 ---
 
 **Explore our GitHub repositories and join us on this exciting journey!**
